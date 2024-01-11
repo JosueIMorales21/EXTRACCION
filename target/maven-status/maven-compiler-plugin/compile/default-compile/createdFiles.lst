@@ -1,0 +1,5 @@
+CSVCompressor\Compressor.class
+com\palacio\extract\Main\ExtraccionApp.class
+ConfigProperties\ConfigReader.class
+Logger\LogConfig.class
+Logger\MyCustomFormatter.class
